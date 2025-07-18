@@ -1,3 +1,3 @@
-# open-lab
+# EchoWalk
 
 ## this repo has fusion file for open lab
